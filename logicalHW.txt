@@ -1,0 +1,17 @@
+var num2 = 2;
+
+var num3 = "1";
+
+var num4 = "2";
+
+Given the above variables, assess if the following lines will evaluate to TRUE OR FALSE:
+
+(num1 == num3)true
+
+(num1 === num3)false
+
+(num1 === num3) || (num2 == num4) true
+
+((num1 === num3) || (num2 == num4)) && (num1 === num3)false
+
+ 
